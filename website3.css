@@ -1,0 +1,28 @@
+html{
+    background-color: aqua;
+    text-align: center;
+}
+#usernamehome{
+    text-align: start;
+    font-size:larger;
+}
+#b1{
+    background-color: white;
+    border-radius: 30px;
+    width: 7%;
+    height: 30px;
+}
+#menuone{
+    background-color: white;
+    border-radius: 30px;
+    width: 4%;
+    height: 30px;
+    visibility: hidden;
+}
+.b2{
+    background-color: white;
+    border-radius: 40px;
+    width: 5%;
+    height: 40px;
+    visibility: hidden; 
+}
